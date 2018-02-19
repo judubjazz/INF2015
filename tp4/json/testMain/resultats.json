@@ -1,0 +1,25 @@
+{
+    "valeur_totale": "331733.50 $",
+    "rente_provinciale": "23884.80 $",
+    "rente_federale": "41466.70 $",
+    "salaires":     [
+                {
+            "nom": "Zied Zaier",
+            "valeur_par_employe": "50312.00 $"
+        },
+                {
+            "nom": "Jean Dupon",
+            "valeur_par_employe": "78486.00 $"
+        },
+                {
+            "nom": "Rose Pascal",
+            "valeur_par_employe": "193201.80 $"
+        }
+    ],
+    "Recommandations":     [
+        "L’écart maximal entre les dates de révision de salaire des employés d’un même département devrait être de moins de 6 mois",
+        "La charge de travail de l'employé Zied Zaier est inférieure à 500 heures",
+        "Le taux horaire maximum ne devrait pas dépasser deux fois le taux horaire minimum.",
+        "L'employé Rose Pascal est trop coûteux."
+    ]
+}

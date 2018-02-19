@@ -1,0 +1,19 @@
+{
+    "valeur_totale": "252761.50 $",
+    "rente_provinciale": "18198.85 $",
+    "rente_federale": "31595.20 $",
+    "salaires":     [
+                {
+            "nom": "Zied Zaier",
+            "valeur_par_employe": "45912.00 $"
+        },
+                {
+            "nom": "Jean Dupon",
+            "valeur_par_employe": "56846.00 $"
+        },
+                {
+            "nom": "Rose Pascal",
+            "valeur_par_employe": "140269.80 $"
+        }
+    ]
+}

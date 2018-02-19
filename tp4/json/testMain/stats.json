@@ -1,0 +1,13 @@
+{
+    "nombre_employes": 6,
+    "nombre_employes_salaire_inferieur_50000": 0,
+    "nombre_employes_salaire_superieur_100000": 2,
+    "nombre_employes_salaire_entre_50000_et_100000": 4,
+    "nombre_employes_par_departement":     [
+        {"Informatique": 3},
+        {"Ressources Humaines": 3}
+    ],
+    "charge_de_travail_maximal": 1503,
+    "valeur_salarial_maximale": 331733.5,
+    "valeur_salarial_minimale": 235976.84
+}

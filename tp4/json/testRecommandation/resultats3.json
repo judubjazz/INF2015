@@ -1,0 +1,20 @@
+{
+    "valeur_totale": "294915.50 $",
+    "rente_provinciale": "21233.90 $",
+    "rente_federale": "36864.45 $",
+    "salaires":     [
+                {
+            "nom": "Maxime Allie",
+            "valeur_par_employe": "79716.00 $"
+        },
+                {
+            "nom": "Jean-Claude Bossé",
+            "valeur_par_employe": "92242.80 $"
+        },
+                {
+            "nom": "Richard Lamoureux",
+            "valeur_par_employe": "113223.00 $"
+        }
+    ],
+    "Recommandations": ["L’écart maximal entre les dates de révision de salaire des employés d’un même département devrait être de moins de 6 mois"]
+}

@@ -1,0 +1,85 @@
+{
+  "nom_departement":"Informatique",
+  "type_departement":2,
+  "taux_horaire_min":"31.45 $",
+  "taux_horaire_max":"73.00 $",
+  "employes":[
+    {
+      "nom":"Zied Zaier",
+      "nombre_droit_anciennete":4,
+      "nombre_diplomes":0,
+      "charge_travail":465,
+      "date_revision_salaire":"2015-10-14"
+    },
+    {
+      "nom":"Jean Dupon",
+      "nombre_droit_anciennete":0,
+      "nombre_diplomes":1,
+      "charge_travail":1082,
+      "date_revision_salaire":"2015-12-15"
+    },
+    {
+      "nom":"Rose Pascala",
+      "nombre_droit_anciennete":8,
+      "nombre_diplomes":3,
+      "charge_travail":1203,
+      "date_revision_salaire":"2013-06-20"
+    },
+    {
+      "nom":"Rose Pascalb",
+      "nombre_droit_anciennete":8,
+      "nombre_diplomes":3,
+      "charge_travail":1203,
+      "date_revision_salaire":"2013-06-20"
+    },
+    {
+      "nom":"Rose Pascalc",
+      "nombre_droit_anciennete":8,
+      "nombre_diplomes":3,
+      "charge_travail":1203,
+      "date_revision_salaire":"2013-06-20"
+    },
+    {
+      "nom":"Rose Pascald",
+      "nombre_droit_anciennete":8,
+      "nombre_diplomes":3,
+      "charge_travail":1203,
+      "date_revision_salaire":"2013-06-20"
+    },
+    {
+      "nom":"Rose Pascale",
+      "nombre_droit_anciennete":8,
+      "nombre_diplomes":3,
+      "charge_travail":1203,
+      "date_revision_salaire":"2013-06-20"
+    },
+    {
+      "nom":"Rose Pascalf",
+      "nombre_droit_anciennete":8,
+      "nombre_diplomes":3,
+      "charge_travail":1203,
+      "date_revision_salaire":"2013-06-20"
+    },
+    {
+      "nom":"Rose Pascalg",
+      "nombre_droit_anciennete":8,
+      "nombre_diplomes":3,
+      "charge_travail":1203,
+      "date_revision_salaire":"2013-06-20"
+    },
+    {
+      "nom":"Rose Pascalh",
+      "nombre_droit_anciennete":8,
+      "nombre_diplomes":3,
+      "charge_travail":1203,
+      "date_revision_salaire":"2013-06-20"
+    },
+    {
+      "nom":"Rose Pascali",
+      "nombre_droit_anciennete":8,
+      "nombre_diplomes":3,
+      "charge_travail":1203,
+      "date_revision_salaire":"2013-06-20"
+    }
+  ]
+}

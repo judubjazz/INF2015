@@ -1,0 +1,77 @@
+{
+  "nom_departement": "Ressources Humaines",
+  "type_departement": 2,
+  "taux_horaire_min": "20.50 $",
+  "taux_horaire_max": "43.80 $",
+  "employes": [{
+    "nom": "Maxime Allie",
+    "nombre_droit_anciennete": 6,
+    "nombre_diplomes": 4,
+    "charge_travail": 400,
+    "date_revision_salaire": "2015-10-14"
+  },
+    {
+      "nom": "Jean-Claude Bossé",
+      "nombre_droit_anciennete": 2,
+      "nombre_diplomes": 4,
+      "charge_travail": 1620,
+      "date_revision_salaire": "2015-12-15"
+    },
+    {
+      "nom": "Richard Lamoureux",
+      "nombre_droit_anciennete": 9,
+      "nombre_diplomes": 4,
+      "charge_travail": 1650,
+      "date_revision_salaire": "2013-06-20"
+    },
+    {
+      "nom": "Alexandre Leblanc",
+      "nombre_droit_anciennete": 7,
+      "nombre_diplomes": 5,
+      "charge_travail": 1620,
+      "date_revision_salaire": "2014-12-15"
+    },
+    {
+      "nom": "Ju Guite",
+      "nombre_droit_anciennete": 4,
+      "nombre_diplomes": 5,
+      "charge_travail": 1620,
+      "date_revision_salaire": "2012-12-15"
+    },
+    {
+      "nom": "Dave Kiryon",
+      "nombre_droit_anciennete": 8,
+      "nombre_diplomes": 5,
+      "charge_travail": 1400,
+      "date_revision_salaire": "2015-12-15"
+    },
+    {
+      "nom": "King Kong",
+      "nombre_droit_anciennete": 3,
+      "nombre_diplomes": 5,
+      "charge_travail": 1200,
+      "date_revision_salaire": "2016-12-15"
+    },
+    {
+      "nom": "Bugs Bunny",
+      "nombre_droit_anciennete": 9,
+      "nombre_diplomes": 5,
+      "charge_travail": 1650,
+      "date_revision_salaire": "2017-12-15"
+    },
+    {
+      "nom": "Homer Simpson",
+      "nombre_droit_anciennete": 9,
+      "nombre_diplomes": 5,
+      "charge_travail": 1650,
+      "date_revision_salaire": "2014-12-15"
+    },
+    {
+      "nom": "Georges St-Pierre",
+      "nombre_droit_anciennete": 9,
+      "nombre_diplomes": 5,
+      "charge_travail": 1650,
+      "date_revision_salaire": "2014-12-15"
+    }
+  ]
+}

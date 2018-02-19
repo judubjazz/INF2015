@@ -1,0 +1,10 @@
+{
+    "nombre_employes": 10,
+    "nombre_employes_salaire_inferieur_50000": 1,
+    "nombre_employes_salaire_superieur_100000": 7,
+    "nombre_employes_salaire_entre_50000_et_100000": 2,
+    "nombre_employes_par_departement": [{"Ressources Humaines": 10}],
+    "charge_de_travail_maximal": 1650,
+    "valeur_salarial_maximale": 1282707.9,
+    "valeur_salarial_minimale": 1282707.9
+}

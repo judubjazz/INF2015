@@ -1,0 +1,25 @@
+{
+    "valeur_totale": "303099.00 $",
+    "rente_provinciale": "21823.15 $",
+    "rente_federale": "37887.40 $",
+    "salaires":     [
+                {
+            "nom": "Maxime Allie",
+            "valeur_par_employe": "31288.00 $"
+        },
+                {
+            "nom": "Jean-Claude Bossé",
+            "valeur_par_employe": "92242.80 $"
+        },
+                {
+            "nom": "Richard Lamoureux",
+            "valeur_par_employe": "169834.50 $"
+        }
+    ],
+    "Recommandations":     [
+        "L’écart maximal entre les dates de révision de salaire des employés d’un même département devrait être de moins de 6 mois",
+        "La charge de travail de l'employé Maxime Allie est inférieure à 500 heures",
+        "Le taux horaire maximum ne devrait pas dépasser deux fois le taux horaire minimum.",
+        "L'employé Richard Lamoureux est trop coûteux."
+    ]
+}
